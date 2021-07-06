@@ -13,6 +13,8 @@ project/plugins/project/
 src/*/target
 app/target
 
+.idea/*
+
 # Environment variables file intended for customize the Docker containers parameters letting each developer has its own values.
 .env
 
